@@ -10,3 +10,5 @@
 4.Finding Mid element of the linked List
 
 5.Loop finder from a Linked List
+
+4.Endcoder and decoder goldman_sachs
